@@ -1,5 +1,6 @@
 # PhanTichThietKeHeThong_14
 Kịch bản khảo sát: Trọ cho thuê
+n/
 Giới thiệu và đưa ra mục đích khảo sát của nhóm.
 Câu hỏi 1: Thông tin và nghề nghiệp của bạn?
 Câu hỏi 2: Thu nhập hiện tại của bạn 1 tháng là bao nhiêu?
